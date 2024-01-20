@@ -6,3 +6,8 @@
 4. Run the recommender.py file
 5. Run the app.py file in your terminal using the following statement:
     streamlit run app.py
+
+## Description
+- A Streamlit-based application to recommend movies to the user.
+- Content-based filtering has been applied.
+- Cosine similarity has been used to calculate the similarity between movies.
