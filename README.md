@@ -46,5 +46,5 @@ streamlit run app.py
 TMDB 5000 Movie Dataset has been used as our project dataset. This dataset contains information about movies such as cast, crews, genres, etc. The link for this dataset is [here](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
 ## Contact
-Email ID: [mailto: aaquibasrar4@gmail.com](aaquibasrar4@gmail.com)
-LinkedIn: [https://www.linkedin.com/in/aaquib-asrar/](https://www.linkedin.com/in/aaquib-asrar/)
+* Email ID: [aaquibasrar4@gmail.com](mailto:aaquibasrar4@gmail.com)
+* LinkedIn: [https://www.linkedin.com/in/aaquib-asrar/](https://www.linkedin.com/in/aaquib-asrar/)
